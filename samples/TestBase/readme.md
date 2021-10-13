@@ -17,7 +17,7 @@ These code samples will show you how to manage Test Base resouces using Azure SD
 This project framework provides examples for the following services:
 
 ### Test Base for M365
-* Using the Azure SDK for Python - Test Base Management Library [azure-mgmt-appservice](https://pypi.org/project/azure-mgmt-appservice/) for the [Azure App Service API](https://docs.microsoft.com/en-us/rest/api/appservice/)
+* Using the Azure SDK for Python - Test Base Management Library [azure-mgmt-testbase](https://pypi.org/project/azure-mgmt-testbase/1.0.0b1/) for the [Test Base for M365](https://docs.microsoft.com/en-us/rest/api/appservice/)
 
 ## Getting Started
 
